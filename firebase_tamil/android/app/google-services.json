@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928411207824",
+    "firebase_url": "https://mendterfirebase.firebaseio.com",
+    "project_id": "mendterfirebase",
+    "storage_bucket": "mendterfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928411207824:android:e6091099f607be7a787015",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tamil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928411207824-3unasgqkqrme1snp7qt0ui8kvihlk141.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_tamil",
+            "certificate_hash": "325f6ed4c672023139d62e5c188ddf4c1fc7db4c"
+          }
+        },
+        {
+          "client_id": "928411207824-dro63181m9cahjk05kfc3lht84fe5cge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2EHJnklqPpJotYNbf1hT3umvD9OwRVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928411207824-dro63181m9cahjk05kfc3lht84fe5cge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
